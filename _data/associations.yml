@@ -1,7 +1,7 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Beer for the World
+- organization: 
   role: Volunteer
   year: 2008 &mdash; Present
   url: http://beerfortheworld.com

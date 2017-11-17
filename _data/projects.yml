@@ -1,16 +1,25 @@
-# Projects
+# projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+- project: Cerebello-Thalamo-Cortical Resting State Connectivity Biomarkers in Patients with Movement Disorder.
+  role: Research Fellow
+  duration: January 2017 &mdash; till now
+  description: Acquiring and analysing fMRI-EEG Neuroimaging data on Movement Disorder Patients
+  # PI: Dr. ROSE DAWN BHARATH, Additional Professor, NIMHANS, Bengaluru, India.
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+
+- project: Behavioral and Sleep Biology Studies on Zebrafish and Rats.
+  role: Research Intern (Master's Dissertation)
+  duration: October, 2015 &mdash; April,2016
+  description: Rat handling, Morris Water Maze, ANYMAZE Tracking, Statistical Analysis, Stereotaxic Surgery of Wistar rats etc Zebrafish Breeding, Feeding and maintenance; Live cell imaging; Embryo Development etc.
+  # PI: Prof. BIRENDRA NATH MALLICK, Professor of Neurobiology, Jawaharlal Nehru University, New Delhi, India.
+
+
+- project: Psychological Counselling of Psychiatric Patients
+  role: Research Intern (Master's Dissertation)
+  duration: August, 2012 &mdash; November,2012
+  description: 1) Training to construct, conduct, evaluate and analyze the results of psychological tests for career and behavioral counseling
+               2) Case Study—“3 Psychiatric Patients Observation, Analysis and Suggestions”
+               3) Presentations on “Cognitive Behavioral Therapy”
+  # PI: Prof. ASHA HINGAR, Retired Professor of Psychology, University of Rajasthan, Jaipur, India.
+                        #  Director, Dr. Asha Hingar Psychological Counselling Point (AHPCP), Jaipur, India.
